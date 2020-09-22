@@ -1,0 +1,44 @@
+[Configuracion]
+Titulo=Visual Basic ADO
+Autor=Alfredo Martínez C.
+Fecha=02/11/2000
+Ruta=C:\AMC-Tools\AMC-CodeAssist\Templates\Visual Basic\
+Tipo=VB
+Plantillas = 9
+
+
+[PLT01]
+Titulo = Class Module with SQL
+Nombre = ClassModuleWithSQL.PLT
+
+[PLT02]
+Titulo=Class Module With Stored Procedures
+Nombre=ClassModuleWithStoredProcedures.PLT
+
+[PLT03]
+Titulo = Private Constants
+Nombre = PrivateConstants.PLT
+
+[PLT04]
+Titulo = Public Constants
+Nombre = PublicConstants.PLT
+
+[PLT05]
+Titulo = SQLDeleteWith Execute
+Nombre = SQLDeleteWithExecute.PLT
+
+[PLT06]
+Titulo = SQL Insert With Execute
+Nombre = SQLInsertWithExecute.PLT
+
+[PLT07]
+Titulo = SQL Select With Recordset
+Nombre = SQLSelectWithRecordset.PLT
+
+[PLT08]
+Titulo = SQL Update With Execute
+Nombre = SQLUpdateWithExecute.PLT
+
+[PLT09]
+Titulo = Table Type Definition - Variable Length
+Nombre = TableTypeDefinition-VariableLength.PLT

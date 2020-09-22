@@ -1,0 +1,44 @@
+[Configuracion]
+Titulo=SQL Server Template
+Autor=Alfredo Martínez C.
+Fecha=02/11/2000
+Ruta=C:\AMC-Tools\AMC-CodeAssist\Templates\SQL Server\
+Tipo=SQL
+Plantillas=9
+
+
+[PLT01]
+Titulo=SQL DELETE Statement
+Nombre=SQLDeleteStatement.PLT
+
+[PLT02]
+Titulo=SQL DELETE Stored Procedure
+Nombre=SQLDeleteStoredProcedure.PLT
+
+[PLT03]
+Titulo=SQL INSERT Statement
+Nombre=SQLInsertStatement.PLT
+
+[PLT04]
+Titulo=SQL INSERT Stored Procedure
+Nombre=SQLINSERTStoredProcedure.PLT
+
+[PLT05]
+Titulo=SQL SELECT Statement
+Nombre=SQLSelectStatement.PLT
+
+[PLT06]
+Titulo=SQL SELECT Stored Procedure
+Nombre=SQLSelectStoredProcedure.PLT
+
+[PLT07]
+Titulo=SQL UPDATE Statement
+Nombre=SQLUpdateStatement.PLT
+
+[PLT08]
+Titulo=SQL UPDATE Stored Procedure
+Nombre=SQLUpdateStoredProcedure.PLT
+
+[PLT09]
+Titulo=SQL Variable Field Declare
+Nombre=SQLVariableFieldDeclare.PLT
